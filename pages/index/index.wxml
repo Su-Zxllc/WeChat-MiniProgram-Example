@@ -1,0 +1,2 @@
+<!--index.wxml-->
+<view data-name="fullscreen" bindtap="navigate">EXAMPLE</view>

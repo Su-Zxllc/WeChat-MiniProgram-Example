@@ -1,0 +1,7 @@
+<!--logs.wxml-->
+<view>
+
+  <web-view src="{{website}}"></web-view>
+
+
+</view>
